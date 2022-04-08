@@ -1,5 +1,9 @@
 changes 1
 Chaneged
 Changes made by omkar on branch1
+<<<<<<< HEAD
 change to branch1 
 
+=======
+change something
+>>>>>>> 4726e8cb834b6864d1e34c422ae95986012ae6ee
